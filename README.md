@@ -1,7 +1,7 @@
 # Library-Management-System
 
 
-# this is for db connection using mysql
+# This is for db connection using mysql
 add this content inside /etc/mysql/lms.cnf
 
     [client]
@@ -17,5 +17,5 @@ for creating virtualenv and activating
 - . env/bin/activate
 
 to run project
-pip install -r requirements.txt
-(env) - python manage.py runserver
+- pip install -r requirements.txt
+- (env) python manage.py runserver
